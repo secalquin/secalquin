@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Salcobrand**
 
-- 💬 Ask me about **express, laravel, spring boot**
+- 💬 Ask me about **Express, Laravel, Spring Boot, React**
 
 - 📫 How to reach me **scalquin0305@gmail.com**
 
