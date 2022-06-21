@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
-<h3 align="center">A passionate backend developer from Chile</h3>
+<h3 align="center">A passionate Software Engineer from Chile</h3>
 
-- 🔭 I’m currently working on **Salcobrand**
+- 🔭 I’m currently working on **Falabella**
 
-- 💬 Ask me about **Express, Laravel, Spring Boot, React**
+- 💬 Ask me about **Express, Laravel, Spring Boot, React/Nextjs**
 
 - 📫 How to reach me **scalquin0305@gmail.com**
 
